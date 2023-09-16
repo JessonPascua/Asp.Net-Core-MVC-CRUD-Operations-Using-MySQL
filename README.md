@@ -1,4 +1,5 @@
 # Asp.Net-Core-MVC-CRUD-Operations-Using-MySQL
+Simple demo project showing Asp.Net Core MVC using CRUD Operations with MySQL.
 
 ## NuGet Used:
 - Pomelo.EntityFrameworkCore.MySql
